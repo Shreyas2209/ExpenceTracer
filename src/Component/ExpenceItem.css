@@ -1,0 +1,21 @@
+.expence-item {
+  max-width: 700px;
+  background-color: aqua;
+  display: flex;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 10px;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.expence-desc {
+  display: flex;
+}
+
+.expence-btn {
+  padding: 10px;
+  border-radius: 7px;
+}
